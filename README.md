@@ -1,4 +1,4 @@
-# quizup
+# QuizMania
 
 A new Flutter project.
 
