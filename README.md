@@ -16,6 +16,4 @@ For help getting started with Flutter development, view the
 ter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Uploading app1.jpg…]()
-![app2](https://github.com/GagandeepCodes/Flutter-quiz-App/assets/107742349/bd3fdc4a-57b3-4b19-985e-107c593f492e)
-![app3](https://github.com/GagandeepCodes/Flutter-quiz-App/assets/107742349/a8e095bc-1831-49b5-afc9-52136ef763ff)
+![Slide 16_9 - 1](https://github.com/GagandeepCodes/Flutter-quiz-App/assets/107742349/863d7024-5725-4177-95a2-7a096f68d288)
